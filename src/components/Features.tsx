@@ -91,7 +91,6 @@ export default function Features() {
                 padding: "32px 28px",
                 position: "relative",
                 overflow: "hidden",
-                cursor: "pointer",
               }}
             >
               {/* Orange glow at bottom of each card */}

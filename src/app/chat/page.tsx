@@ -153,7 +153,8 @@ function ChatInner() {
       {/* ── Chat Navbar ────────────────────────────────── */}
       <header className="chat-header">
         <button className="chat-back-btn" onClick={() => router.back()}>
-          ← Back to Home
+          ← <span className="hidden sm:inline">Back to Home</span>
+          <span className="inline sm:hidden">Back</span>
         </button>
 
         <div className="nav-logo">

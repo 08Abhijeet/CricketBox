@@ -104,7 +104,7 @@ ${context}`;
     ];
 
     const groqResponse = await groq.chat.completions.create({
-      model   : "llama-3.3-70b-versatile", // fast, free, 70B — best on Groq
+      model   : "llama-3.3-70b-versatile",
       messages: [
         { role: "system", content: systemPrompt },
         ...messages,
