@@ -1,0 +1,378 @@
+[
+    {
+        "id": "1",
+        "topic": "Basic Objective",
+        "content": "Cricket is a bat-and-ball game played between two teams of 11 players each. The objective is to score more runs than the opposing team. One team bats while the other bowls and fields. The batting team tries to score as many runs as possible while the fielding team tries to dismiss batters and restrict runs."
+    },
+    {
+        "id": "2",
+        "topic": "Formats of Cricket",
+        "content": "Cricket has three main formats. Test cricket is played over 5 days, each team gets 2 innings, unlimited overs. ODI cricket is 50 overs per side, 1 innings each. T20 cricket is 20 overs per side, 1 innings each. T10 is 10 overs per side. The Hundred uses 100 balls per side. Test cricket is considered the ultimate format while T20 is the most popular and entertaining format."
+    },
+    {
+        "id": "3",
+        "topic": "The Cricket Pitch",
+        "content": "The pitch is a rectangular strip 22 yards long and 10 feet wide in the center of the ground. It has three creases: the popping crease 4 feet in front of stumps where the batter stands, the bowling crease in line with the stumps, and the return crease at right angles. The pitch condition greatly affects the game — a green pitch helps fast bowlers, a dry dusty pitch helps spinners, and a flat pitch favors batters."
+    },
+    {
+        "id": "4",
+        "topic": "Stumps and Bails",
+        "content": "Each end of the pitch has three stumps: off stump, middle stump, and leg stump. Two bails sit on top in grooves. Stumps are 28 inches tall and span 9 inches wide together. The wicket is broken when bails are dislodged. In windy conditions heavier bails are used. LED bails are used in T20 tournaments to clearly show when the wicket is broken — they light up the moment bails are dislodged."
+    },
+    {
+        "id": "5",
+        "topic": "Scoring Runs",
+        "content": "Runs are scored in several ways. Running between wickets: batters physically run from one end to the other, each completed run = 1 run. Boundary 4: ball reaches boundary rope after touching ground = 4 runs. Boundary 6: ball clears boundary without touching ground = 6 runs. Extras include wides, no balls, byes, leg byes, and penalty runs. A batter can also score overthrows if the fielder's throw goes to the boundary."
+    },
+    {
+        "id": "6",
+        "topic": "Wide Ball",
+        "content": "A wide is called when the ball is too far from the batter to hit with a normal stroke. It adds 1 run as an extra and the ball is rebowled. In T20, any ball outside the off stump tramline or down leg side is wide — the rule is very strict. In Tests, the umpire has more discretion. If a wide reaches the boundary, 5 wides are awarded. Batters cannot be bowled, caught, LBW, or hit wicket off a wide but can be stumped or run out."
+    },
+    {
+        "id": "7",
+        "topic": "No Ball",
+        "content": "A no ball is an illegal delivery. Causes: front foot lands beyond popping crease, ball bounces more than twice, ball above waist height as full toss, illegal fielding positions, or throwing instead of bowling. A no ball adds 1 run as extra and must be rebowled. In T20 a free hit follows every front foot no ball — batter cannot be dismissed off a free hit except by run out. Batters can still be run out from a no ball."
+    },
+    {
+        "id": "8",
+        "topic": "Dismissals — Bowled",
+        "content": "Bowled is when the ball delivered by the bowler hits the stumps and dislodges the bails, regardless of whether it touched the bat, glove, or any part of the batter's body first. It is one of the most satisfying dismissals in cricket. Even if the ball deflects off the bat onto the stumps, the batter is out bowled. If the ball hits the stumps but bails don't fall, the batter is not out."
+    },
+    {
+        "id": "9",
+        "topic": "Dismissals — Caught",
+        "content": "Caught out is the most common form of dismissal. The batter is out if a fielder catches the ball cleanly after it comes off the bat or glove without touching the ground. The fielder must have complete control of the ball and not touch the boundary. If the fielder catches the ball and momentum takes them over the boundary, they can throw the ball back in and return to the field to complete the catch. A caught behind is when the wicketkeeper takes the catch."
+    },
+    {
+        "id": "10",
+        "topic": "Dismissals — LBW",
+        "content": "LBW stands for Leg Before Wicket. The batter is out LBW if the ball hits any part of their body (usually the pad) instead of the bat and the umpire judges it would have hit the stumps. Conditions for LBW: ball must not pitch outside leg stump, ball must not hit the bat first, impact must not be outside off stump if the batter plays a shot. The ball can pitch outside off stump for LBW if no shot is played. DRS technology has made LBW decisions more accurate."
+    },
+    {
+        "id": "11",
+        "topic": "Dismissals — Run Out",
+        "content": "A batter is run out when they are outside their crease and the fielding side breaks the wicket with the ball while the batter is attempting a run. Both batters can be run out. If both batters are out of their crease and wicket is broken, the batter who was closer to the broken end is out. Run outs are often the result of miscommunication between batters, brilliant direct hits by fielders, or backing up too far."
+    },
+    {
+        "id": "12",
+        "topic": "Dismissals — Stumped",
+        "content": "Stumped is a dismissal where the wicketkeeper puts down the wicket while the batter is out of their crease and not attempting a run. This only applies to balls that are not no balls. Stumping mostly happens off spin bowling when the batter steps out of their crease to play a shot and misses. MS Dhoni is famous for lightning fast stumpings. The third umpire uses frame-by-frame video to check if any part of the bat or foot is behind the crease."
+    },
+    {
+        "id": "13",
+        "topic": "Dismissals — Hit Wicket",
+        "content": "A batter is out hit wicket if they dislodge the bails with their bat, body, or equipment while playing a shot or setting off for a first run. It is a rare dismissal. This counts even if the ball is a no ball except in certain cases. If the batter steps back and their helmet falls onto the stumps, they are out hit wicket. This dismissal is credited to the bowler."
+    },
+    {
+        "id": "14",
+        "topic": "Dismissals — Handled the Ball and Obstructing the Field",
+        "content": "A batter can be dismissed for handling the ball deliberately with the hand not holding the bat, without the fielding team's consent. Obstructing the field is when a batter deliberately hinders a fielder trying to field the ball or make a catch. Both are rare dismissals. In 2017 the Laws were updated and Handled the Ball was merged into Obstructing the Field as one single dismissal."
+    },
+    {
+        "id": "15",
+        "topic": "Dismissals — Hit the Ball Twice",
+        "content": "A batter is out if they deliberately hit the ball twice except to protect their wicket. If the ball is rolling onto the stumps, the batter may hit it again to protect the wicket but cannot score runs from that second hit. This is one of the rarest dismissals in cricket history."
+    },
+    {
+        "id": "16",
+        "topic": "Power Play Rules",
+        "content": "In ODI cricket there are three power plays. Power Play 1 is overs 1-10, mandatory, only 2 fielders allowed outside the 30-yard circle. Power Play 2 is overs 11-40, normal fielding with maximum 4 fielders outside the circle allowed. Power Play 3 is overs 41-50, maximum 5 fielders outside the circle. In T20 cricket, Power Play is overs 1-6 with only 2 fielders outside the circle. Power plays are designed to encourage attacking batting at the start."
+    },
+    {
+        "id": "17",
+        "topic": "Fielding Restrictions",
+        "content": "The fielding team must follow specific fielding rules. During power plays only 2 fielders can be outside the 30-yard circle. Outside power plays in ODIs, maximum 4 fielders can be outside. In T20 outside power play, maximum 5 fielders can be outside. There must always be at least 4 fielders in the on-side (leg side). No more than 5 fielders can be on the leg side at any time. Fielders cannot be behind the umpire at the bowler's end."
+    },
+    {
+        "id": "18",
+        "topic": "DLS Method",
+        "content": "The Duckworth-Lewis-Stern method is used to calculate revised targets in rain-interrupted limited overs matches. It is based on the concept that a batting team has two resources: wickets remaining and overs remaining. When play is interrupted, the target is recalculated based on resources lost. For example if Team A scores 250 in 50 overs and Team B's innings is reduced to 30 overs due to rain, DLS calculates a fair revised target for Team B. The method is managed by Professor Steven Stern."
+    },
+    {
+        "id": "19",
+        "topic": "Decision Review System DRS",
+        "content": "DRS is a technology-based system used to assist on-field umpires in making accurate decisions. It includes ball tracking technology (Hawk-Eye) to predict ball trajectory for LBW decisions, UltraEdge or Snickometer to detect edges, Hot Spot infrared imaging to detect contact, and Real Time Snickometer. Each team gets 2 unsuccessful reviews per innings in Tests and 1 in ODI and T20. If the review is successful, the team retains the review. Reviews can overturn on-field decisions."
+    },
+    {
+        "id": "20",
+        "topic": "Free Hit Rule",
+        "content": "A free hit is awarded to the batting team after a front foot no ball in T20 and ODI cricket. On a free hit delivery, the batter cannot be dismissed except by run out, hitting the wicket while running, or obstructing the field. The fielding positions cannot be changed for the free hit except for the wicketkeeper. The free hit is signaled by the umpire rotating their raised arm in a circle. This rule encourages batters to play aggressively on free hits."
+    },
+    {
+        "id": "21",
+        "topic": "Bowling Rules — Over",
+        "content": "An over consists of 6 legal deliveries bowled from one end. After each over, the bowling switches to the other end. The same bowler cannot bowl two consecutive overs. In Test cricket there is no limit on how many overs a bowler can bowl. In ODIs, each bowler can bowl a maximum of 10 overs. In T20s, each bowler can bowl a maximum of 4 overs. If an over has wides or no balls, extra deliveries are bowled until 6 legal balls are delivered."
+    },
+    {
+        "id": "22",
+        "topic": "Follow On Rule",
+        "content": "In Test cricket, the follow on can be enforced when the team batting first has a lead of 200 or more runs in a 5-day match, 150 runs in a 3 or 4-day match, or 100 runs in a 2-day match. The team with the lead can ask the opposition to bat again immediately rather than batting themselves. This is used as a tactical decision, usually when the opposition has a very low first innings score and the leading team wants to press for victory."
+    },
+    {
+        "id": "23",
+        "topic": "Super Over Rule",
+        "content": "A Super Over is used to break a tie in T20 and ODI matches. Each team faces 1 over of 6 balls with 2 wickets. The team that scores more runs in the super over wins. If the super over is also tied, in ICC tournaments the team with more boundaries in the main innings plus super over wins. Each team nominates 2 batters and 1 bowler for the super over. The team batting second in the main match bats first in the super over."
+    },
+    {
+        "id": "24",
+        "topic": "Leg Before Wicket LBW Detailed Rules",
+        "content": "LBW has several detailed conditions. First, if the ball pitches outside the leg stump, the batter cannot be given out LBW regardless. Second, if the ball hits the bat before the pad, not out LBW. Third, if the impact is outside the off stump AND the batter plays a shot, not out LBW. Fourth, if no shot is played and impact is in line, out LBW even if pitched outside off. Fifth, the ball must be going on to hit the stumps — if it is going over or missing the stumps, not out. Height of the ball at stumps is crucial."
+    },
+    {
+        "id": "25",
+        "topic": "Ball Condition and Maintenance",
+        "content": "The cricket ball is hard, cork-centered with a leather exterior. It starts shiny and becomes worn over time. Teams can shine one side to help with swing bowling. Players use saliva or sweat to polish one side — this creates an imbalance that causes the ball to swing in the air. Using artificial substances like lip balm, sunscreen, or vaseline is illegal and considered ball tampering. After 80 overs in Tests, teams can take a new ball. In ODIs the ball is changed after 34 overs from each end."
+    },
+    {
+        "id": "26",
+        "topic": "Ball Tampering",
+        "content": "Ball tampering is the illegal alteration of the condition of the cricket ball. Legal actions include polishing the ball with sweat or saliva, and removing mud. Illegal actions include scratching the surface with nails or a bottle cap, using artificial substances like vaseline or sunscreen, lifting the seam deliberately, or gouging the surface. Penalties include 5 penalty runs awarded to the batting team, the ball is changed, and the player can be suspended. The 2018 Australia sandpaper scandal is the most famous ball tampering incident."
+    },
+    {
+        "id": "27",
+        "topic": "Mankading Run Out",
+        "content": "Mankading refers to a bowler running out the non-striking batter who has left their crease before the ball is delivered. It is named after Indian cricketer Vinoo Mankad who dismissed Bill Brown this way in 1947. The dismissal is legal under cricket laws and is categorized as a run out. The ICC clarified in 2022 that this is now under the run out category and is not considered unsportsmanlike. The bowler must not complete the delivery action before attempting the run out."
+    },
+    {
+        "id": "28",
+        "topic": "Timeout Rule",
+        "content": "In international cricket, the incoming batter must be ready to face the next ball or be at the crease within a set time after the previous wicket falls. In Tests this is 3 minutes, in ODIs and T20s it is 2 minutes. If the batter is not ready in time, the fielding team can appeal and the batter can be given out timed out. This is the rarest dismissal in cricket. Angelo Mathews of Sri Lanka was the first player dismissed timed out in international cricket in 2023 ICC World Cup."
+    },
+    {
+        "id": "29",
+        "topic": "Penalty Runs",
+        "content": "Penalty runs are 5 runs awarded to either team for various violations. They are awarded to the batting team when: a fielder deliberately distracts the batter, the ball hits a helmet placed on the field by the fielding team, ball tampering occurs, or a fielder deliberately fields the ball while outside the field. They are awarded to the fielding team when: a batter deliberately damages the pitch, a batter hits the ball with something other than the bat, or a batter wastes time deliberately."
+    },
+    {
+        "id": "30",
+        "topic": "Umpire Signals",
+        "content": "Cricket umpires use hand signals to communicate decisions. Out: raise index finger. Four runs: wave arm across chest. Six runs: raise both arms above head. Wide: extend both arms horizontally. No ball: extend one arm horizontally. Bye: raise open hand above head. Leg bye: raise one knee and touch it with hand. Dead ball: cross and uncross arms in front of body. TV referral: make rectangular shape with fingers. Short run: touch shoulder with one hand. New ball: raise ball above head."
+    },
+    {
+        "id": "31",
+        "topic": "Dead Ball",
+        "content": "A dead ball means no runs can be scored and no dismissals are valid. The ball becomes dead when it settles in the hands of the bowler or wicketkeeper, when a batter is dismissed, when the ball reaches the boundary, when a batter is injured, when an umpire calls dead ball, or when the ball lodges in protective equipment. When the ball is dead, fielders cannot run out batters. Play resumes when the bowler starts their run-up for the next delivery."
+    },
+    {
+        "id": "32",
+        "topic": "Fielding Positions",
+        "content": "Cricket has many fielding positions. On the off side: slip, gully, point, cover point, extra cover, mid off. On the leg side: fine leg, square leg, mid-wicket, mid on. Close catching positions: slip cordon, silly mid-on, silly mid-off, short leg, leg slip. Boundary riders: long on, long off, deep square leg, deep fine leg, third man. The fielding captain can place fielders in any position within the rules. A slip cordon is typically used for fast bowlers to catch edges."
+    },
+    {
+        "id": "33",
+        "topic": "Swing Bowling",
+        "content": "Swing bowling is a technique where the ball moves laterally through the air. Conventional swing: the ball swings in the direction of the shiny side when held with seam upright. Reverse swing: occurs with old balls over 40 overs, the ball swings opposite to the shiny side. To generate swing, one side of the ball is kept shiny and the other rough. The seam position and wrist position also affect the direction of swing. Atmospheric conditions like humidity and cloud cover increase swing movement."
+    },
+    {
+        "id": "34",
+        "topic": "Spin Bowling Types",
+        "content": "Spin bowling uses finger or wrist spin to turn the ball off the pitch. Off spin: right-arm bowler turns ball from off to leg for right-handed batters. Leg spin: right-arm wrist spin turning ball from leg to off, harder to control but more dangerous. Googly: leg spinner's delivery that goes the opposite way, turns like an off break. Doosra: off spinner's delivery that turns like a leg break. Carom ball: flicked with middle finger, unpredictable direction. Chinaman: left-arm wrist spin equivalent of leg spin."
+    },
+    {
+        "id": "35",
+        "topic": "Yorker and Bouncer",
+        "content": "A yorker is a delivery that lands near the batter's feet at the base of the stumps. It is extremely difficult to hit and very effective in death overs of T20 and ODI cricket. A well-bowled yorker can trap even the best batters. A bouncer is a short-pitched delivery that rises sharply towards the batter's head or body. Umpires can warn bowlers for intimidatory bowling. In T20 a bowler is allowed only 1 bouncer per over. In ODIs, 2 bouncers per over are allowed. In Tests there is no strict limit."
+    },
+    {
+        "id": "36",
+        "topic": "Captain Responsibilities",
+        "content": "The captain is responsible for: winning the toss and deciding to bat or field, setting the batting order, placing fielders, deciding the bowling order and changes, making appeals for dismissals, reviewing DRS decisions, enforcing follow on, declaring the innings closed in Tests, choosing when to take the new ball, managing the team's over rate to avoid penalties, and representing the team in communication with umpires. Only the captain can formally appeal and request reviews."
+    },
+    {
+        "id": "37",
+        "topic": "Over Rate and Penalties",
+        "content": "Teams are required to bowl their overs within a specified time. In Test cricket, teams must bowl 90 overs per day. In ODIs teams must complete their innings within the allocated time. Slow over rates result in penalties: fielding restrictions where an extra fielder must stay inside the circle for each over short, fines for captains, and ICC demerit points. Repeated slow over rate offenses can lead to match bans for captains."
+    },
+    {
+        "id": "38",
+        "topic": "Toss and Decision",
+        "content": "Before each match the two captains toss a coin. The captain who wins the toss decides whether their team bats or fields first. Factors influencing the toss decision include: pitch conditions (green pitch = field first, flat dry pitch = bat first), weather (overcast conditions help swing = field first), dew factor in day-night matches (second innings easier to bat under dew = field first), team strengths, and ground history. In Tests, the decision can heavily influence the match outcome."
+    },
+    {
+        "id": "39",
+        "topic": "Declaration in Test Cricket",
+        "content": "In Test cricket, the batting captain can declare their innings closed at any time, even if all 10 wickets have not fallen. Declaration is used strategically to give enough time to bowl the opposition out while having enough runs to win. A captain may declare to set up an exciting finish or to avoid letting the opposition score more runs. If a match is heading to a draw, a captain may offer a target to the opposition to make a game of it. There is no declaration in limited overs cricket."
+    },
+    {
+        "id": "40",
+        "topic": "ICC Rankings and Points System",
+        "content": "The ICC maintains rankings for teams and players in all three formats. Team rankings are based on a points system from match results with recent matches weighted more heavily. Player rankings are based on performance metrics: batting average, strike rate, bowling average, economy rate, and match impact. The number 1 ranked Test team holds the ICC Test Championship mace. The World Test Championship determines the best Test team over a 2-year cycle with points awarded for each series."
+    },
+    {
+        "id": "41",
+        "topic": "Sachin Tendulkar — The God of Cricket",
+        "content": "Sachin Tendulkar of India is widely regarded as the greatest batsman of all time. He scored 100 international centuries across Tests and ODIs — a record no other player has come close to matching. He scored 15,921 Test runs and 18,426 ODI runs, both all-time records at the time of his retirement in 2013. He debuted at 16 years of age against Pakistan in 1989 and played for 24 years. He won the ICC Cricket World Cup with India in 2011 and was awarded India's highest civilian honor, the Bharat Ratna."
+    },
+    {
+        "id": "42",
+        "topic": "Sir Donald Bradman — The Greatest Batsman Ever",
+        "content": "Australian batsman Sir Donald Bradman holds the most extraordinary batting average in cricket history — 99.94 in Test cricket, a record considered virtually unbreakable. For context, the next greatest batters average around 55-60. He scored 6,996 Test runs in just 80 innings between 1928 and 1948. He needed just 4 runs in his final Test innings to finish with an average of 100, but was bowled for a duck. He is universally considered the greatest cricketer who ever lived."
+    },
+    {
+        "id": "43",
+        "topic": "Muttiah Muralitharan — Greatest Wicket-Taker",
+        "content": "Sri Lankan off-spinner Muttiah Muralitharan holds the world record for the most Test wickets — 800 in 133 matches. He also holds the ODI wicket-taking record with 534 wickets. His unique wrist action allowed him to spin the ball sharply in both directions, making him extraordinarily difficult to play. He could bowl the doosra and a special delivery called the 'Murali' that dipped and spun sharply. He retired in 2011 and his Test wicket record is considered one of the most unbreakable in cricket."
+    },
+    {
+        "id": "44",
+        "topic": "Brian Lara — Highest Individual Test Score",
+        "content": "West Indian batsman Brian Lara holds the record for the highest individual score in Test cricket — an unbeaten 400 against England in Antigua in 2004. He also held the record twice before at 375 in 1994. Lara was known for his elegance, concentration, and ability to bat for extremely long periods under pressure. He scored 11,953 Test runs with 34 centuries. He was also the first player to score 400 in a Test innings. This record is considered one of the hardest to break in modern cricket."
+    },
+    {
+        "id": "45",
+        "topic": "Virat Kohli — Modern Batting Legend",
+        "content": "Virat Kohli of India is considered the greatest batsman of the modern era. He has scored 75+ international centuries across all formats and is the only Indian player to have been ranked number 1 in ODIs, T20Is, and Tests simultaneously. He led India to the top of the Test rankings and won multiple ICC awards including the Sir Garfield Sobers Trophy. He helped India win the 2024 T20 World Cup and then retired from T20 internationals. In 2025 he continued to perform strongly, scoring over 1,200 international runs across formats."
+    },
+    {
+        "id": "46",
+        "topic": "MS Dhoni — Captain Cool and Wicketkeeper Legend",
+        "content": "MS Dhoni of India is widely regarded as the greatest captain and wicketkeeper in cricket history. He led India to victories in the 2007 T20 World Cup, 2011 ODI World Cup, and 2013 ICC Champions Trophy — making India the first team to hold all three ICC trophies simultaneously. He is famous for his ice-cold calmness under pressure, which earned him the nickname 'Captain Cool'. As a wicketkeeper he set the world record for the fastest stumpings in cricket. He was inducted into the ICC Hall of Fame in 2025."
+    },
+    {
+        "id": "47",
+        "topic": "Wasim Akram — Sultan of Swing",
+        "content": "Pakistani left-arm fast bowler Wasim Akram is considered the greatest ODI bowler of all time by Wisden. He took 502 ODI wickets and 414 Test wickets, and was the master of both conventional and reverse swing. He could move the ball late in either direction at high pace, making him virtually unplayable. His ability to produce unplayable yorkers in death overs was legendary. He was inducted into the ICC Hall of Fame in 2009. He is also the first bowler in history to take 500 ODI wickets."
+    },
+    {
+        "id": "48",
+        "topic": "Shane Warne — Greatest Leg Spinner",
+        "content": "Australian leg-spinner Shane Warne is considered the greatest spin bowler of all time. He took 708 Test wickets and 293 ODI wickets. His famous 'Ball of the Century' bowled to Mike Gatting in 1993 — a delivery that pitched outside leg stump and hit the top of off stump — announced his genius to the world. He could bowl the leg break, googly, flipper, and slider with deadly accuracy. He was named one of Wisden's Five Cricketers of the Century. He passed away in 2022 and was deeply mourned across the cricket world."
+    },
+    {
+        "id": "49",
+        "topic": "Rohit Sharma — Hitman",
+        "content": "Indian batsman Rohit Sharma holds the record for the highest individual score in ODI cricket — 264 against Sri Lanka in 2014. He is also the only batsman in history to have scored three double-centuries in ODIs. As an opener he transformed India's batting with his ability to take on the opposition early in the innings. He led India to the 2024 T20 World Cup victory. He holds the record for the most international sixes. His nickname 'Hitman' comes from his ability to hit the ball enormous distances with apparent ease."
+    },
+    {
+        "id": "50",
+        "topic": "AB de Villiers — Mr. 360",
+        "content": "South African batsman AB de Villiers is considered one of the most innovative and entertaining batters in cricket history. He earned the nickname 'Mr. 360' for his ability to hit the ball to every part of the ground including over the wicketkeeper. He holds the record for the fastest ODI century — 31 balls against West Indies in 2015. He was equally brilliant as a wicketkeeper and in the field. He played for South Africa from 2004 to 2018 and was inducted into the ICC Hall of Fame in 2024. His strokeplay redefined what was possible in ODI and T20 batting."
+    },
+    {
+        "id": "51",
+        "topic": "Jim Laker — Greatest Bowling Spell Ever",
+        "content": "English off-spinner Jim Laker produced the greatest bowling performance in cricket history in 1956 at Old Trafford against Australia. He took 9 wickets in the first innings and 10 wickets in the second innings — a total of 19 wickets in a single Test match. No other bowler in history has taken more than 17 wickets in a Test. His fellow spinner Tony Lock took the only wicket he did not. This record is considered by most experts to be the most unbreakable in the history of cricket."
+    },
+    {
+        "id": "52",
+        "topic": "IPL — Indian Premier League",
+        "content": "The Indian Premier League is the world's richest and most watched T20 cricket league. It was founded by the BCCI in 2008 and features 10 franchise teams representing Indian cities. Players are bought at an auction each year with massive price tags. The IPL has transformed cricket by making T20 the most commercially valuable format. It attracts the best players from every country. The IPL Player Auction sees international stars sold for millions of dollars. The tournament runs every year from March to May and attracts hundreds of millions of viewers globally."
+    },
+    {
+        "id": "53",
+        "topic": "Women's Cricket",
+        "content": "Women's cricket has grown enormously in popularity and standard in recent years. The ICC Women's T20 World Cup and ODI World Cup are the premier women's tournaments. Australia are the dominant force in women's cricket, having won multiple World Cups. Smriti Mandhana and Deepti Sharma are India's standout players. England's Heather Knight is one of the best captains in the game. The women's game now has its own franchise leagues including the Women's Premier League (WPL) in India and The Hundred in England. Prize money and media coverage have increased significantly."
+    },
+    {
+        "id": "54",
+        "topic": "World Test Championship",
+        "content": "The ICC World Test Championship (WTC) is a competition held over a two-year cycle to determine the best Test team in the world. Points are awarded based on series results, with the top two teams at the end of the cycle meeting in a final. India won the inaugural final against New Zealand in 2019-2021 cycle. Australia won the second final against India in 2023. The WTC has revitalized Test cricket by giving every Test series a larger meaning in the context of the overall standings. It is considered the pinnacle of team achievement in the longest format."
+    },
+    {
+        "id": "55",
+        "topic": "Jasprit Bumrah — Modern Fast Bowling Genius",
+        "content": "Jasprit Bumrah of India is widely considered the best fast bowler in the world in the modern era. His unique action — with a stuttering run-up and a very unusual slingy arm delivery — makes him extremely difficult to pick and play. He is equally dangerous with the new ball, the old ball, and in death overs. He is the first Asian bowler to take 5-wicket hauls in South Africa, England, Australia, and West Indies. In 2025 he took 48 Test wickets at an average of 19.00. He is the ICC's top-ranked Test bowler and a match-winner across all three formats."
+    },
+    {
+        "id": "56",
+        "topic": "Stop Clock Rule — 60 Second Over Rule",
+        "content": "The ICC introduced a Stop Clock rule in white-ball cricket and extended it to Test cricket from the 2025-2027 World Test Championship cycle. The fielding team must be ready to bowl the next over within 60 seconds of the previous over being completed. The clock counts upward from 0 to 60. If the fielding side fails to meet this time limit, the umpires give two warnings. After the third failure, a 5-run penalty is imposed against the fielding team on each occasion. The two warnings are reset to zero after every 80 overs in an innings. This rule was introduced to address the long-standing problem of slow over rates in Test cricket."
+    },
+    {
+        "id": "57",
+        "topic": "ODI Two-Ball Rule 2025",
+        "content": "From July 2025, the ICC changed the ODI ball rule. Two new balls are used for the first 34 overs of an ODI innings. After the 34th over is completed, the fielding team chooses one of the two balls to use for the remaining overs 35 to 50. The chosen ball is used at both ends for the rest of the match. This change was introduced to reintroduce reverse swing into ODIs and restore balance between bat and ball. In a match reduced to 25 overs or fewer per side before the first innings begins, only one new ball is used for the entire innings."
+    },
+    {
+        "id": "58",
+        "topic": "New Wide Ball Rule 2025 Trial",
+        "content": "From October 2025, the ICC began trialing a new wide ball rule to provide leniency for bowlers when batters move excessively before a delivery. Under the updated rule, the position of the batter's legs at the point of delivery is used as the reference point for a wide, even if the batter subsequently moves across to the off side. A ball passing the popping crease between the leg stump and the protected area marker is not called a wide. The protected area marker line is extended to the popping crease as a guide for umpires. Any delivery on the leg side that goes behind the batter's legs and outside the line at the popping crease can still be called a wide."
+    },
+    {
+        "id": "59",
+        "topic": "Bunny Hop Boundary Catch Rule 2025",
+        "content": "The ICC banned the Bunny Hop catch technique from 2025 onwards. Previously, fielders could jump from inside the boundary, touch the ball in the air beyond the rope, land outside, and then complete the catch. The new rule states that a fielder who is airborne can only touch the ball once beyond the boundary and must come back inside the field for the catch to be declared fair. This was triggered by Michael Neser's controversial catch during the 2023 Big Bash League, which led the MCC to review catching conditions. A fielder can still throw the ball back in while airborne if they are going over the boundary, but cannot touch it twice beyond the rope."
+    },
+    {
+        "id": "60",
+        "topic": "Updated DRS Protocol 2025 — Multiple Dismissals",
+        "content": "The ICC updated the DRS protocol in 2025 to handle situations where multiple dismissals occur on the same ball. Events are now reviewed strictly in the order in which they happened. If a batter is given out caught behind and reviews it, and UltraEdge shows the ball hit the pads instead of the bat, the third umpire then checks LBW. Under the new rule, the original on-field decision of 'out' carries forward, meaning that even an 'umpire's call' result on ball-tracking will result in the batter being out because the original decision was out. If the first event results in the batter being out, the ball is dead and any second incident does not need to be reviewed."
+    },
+    {
+        "id": "61",
+        "topic": "Concussion Replacement Rules 2025",
+        "content": "The ICC updated concussion replacement protocols in 2025. Teams must now nominate their concussion substitute players to the match referee before the start of the game. Each substitute must carry a different role — wicketkeeper, batsman, seam bowler, spin bowler, and all-rounder. This prevents teams from taking advantage by replacing a batsman with a better bowler. If a player sustains a concussion during a game, they must take a minimum of 7 days off before resuming play. The ICC Medical Advisory Committee recommended this change to protect player safety and well-being."
+    },
+    {
+        "id": "62",
+        "topic": "Injury Replacement Rule 2025 Trial",
+        "content": "From October 2025, the ICC began trialing an injury replacement rule in domestic first-class cricket. A player who suffers a serious injury on the field at any point after the match has started — including during the pre-match warm-up period — may be replaced for the remainder of the match by a fully participating like-for-like substitute player. The replacement must be of similar role and skill level to the injured player. This rule is designed to help teams deal with the loss of a key player due to serious injury sustained during the match, a scenario that had previously left teams at a severe disadvantage."
+    },
+    {
+        "id": "63",
+        "topic": "Deliberate Short Run — Updated Rule",
+        "content": "A deliberate short run occurs when batters act as though going for more than one run, but at least one of them intentionally avoids touching the crease. Under the revised 2025 ICC rules, if umpires determine a batter deliberately ran short, along with the existing 5-run penalty, the fielding side now gets to choose which batter remains on strike after the incident. This gives the fielding team a strategic advantage. However, if a batter aborts a run and the umpire believes there was no intent to cheat or gain unfair advantage, no penalty is given. This change gives more significance and consequence to deliberate short-running."
+    },
+    {
+        "id": "64",
+        "topic": "Saliva Ban and Ball Replacement Rule",
+        "content": "The ICC banned the use of saliva to shine the cricket ball, a rule originally introduced as a temporary COVID-19 measure in June 2020 and made permanent thereafter. Players using saliva deliberately result in 5 penalty runs for the batting side. In 2025, the ICC updated the ball replacement rule to state that umpires are no longer required to automatically replace the ball if it comes into contact with saliva. Umpires now only replace the ball if its condition has changed drastically — for example, if it becomes too wet or gains significant extra shine. The final decision rests entirely with the standing umpires."
+    },
+    {
+        "id": "65",
+        "topic": "Powerplay Rules in Shortened T20Is",
+        "content": "The ICC updated powerplay rules for shortened T20I matches. In a standard T20I, the powerplay covers overs 1-6 with only 2 fielders allowed outside the 30-yard circle. In shortened T20 matches, the powerplay overs are adjusted proportionally. If a match is reduced to 10 overs per side, the powerplay covers the first 3 overs. For a match reduced to 5 overs per side, 2 overs are under powerplay restrictions. These adjustments ensure that batting teams still receive the benefit of fielding restrictions at the start of their innings regardless of how many overs are available."
+    },
+    {
+        "id": "66",
+        "topic": "Batting Powerplay Strategy",
+        "content": "Batting powerplay strategy differs across formats. In T20s, teams look to hit as many boundaries as possible during the 6-over powerplay when only 2 fielders are outside the circle. Aggressive openers like Rohit Sharma, David Warner, or Jos Buttler are typically deployed to maximize runs during this phase. In ODIs, teams often take a more measured approach in the first powerplay — building a platform with wickets in hand to accelerate later. The batting powerplay concept changed ODI cricket by creating distinct phases: powerplay, middle overs, and death overs, each requiring a different strategy."
+    },
+    {
+        "id": "67",
+        "topic": "Death Overs Tactics",
+        "content": "Death overs refer to the final overs of a limited overs innings, typically overs 16-20 in T20 and overs 46-50 in ODIs. Batting teams aim to maximize runs by hitting big shots while fielding teams use their best fast bowlers to bowl yorkers and slower balls. Key batting skills for death overs include ramp shots, scoop shots, switch hits, and reverse sweeps. Bowlers use yorkers, wide yorkers, slower bouncers, and off-cutters to deceive batters. MS Dhoni, Andre Russell, and Hardik Pandya are famous for batting brilliantly in death overs. Jasprit Bumrah and Lasith Malinga are considered the finest death overs bowlers in history."
+    },
+    {
+        "id": "68",
+        "topic": "Reverse Sweep and Switch Hit",
+        "content": "The reverse sweep is a shot where a right-handed batter switches their grip and plays the ball to the off side like a left-handed batter. It is used to unsettle spinners and change the field. The switch hit goes further — the batter completely changes their stance and grip mid-delivery, effectively becoming a left-handed batsman and hitting through the on side. Kevin Pietersen popularized the switch hit. The legality of the switch hit has been debated but it is permitted under ICC rules. The fielding side cannot change their field placement once the bowler starts their run-up, making these shots very difficult to defend against."
+    },
+    {
+        "id": "69",
+        "topic": "Unfair Fielder Movement Rule",
+        "content": "Under ICC playing conditions, any unfair and deliberate movement by a fielder while the bowler is running in to bowl can result in the umpire awarding 5 penalty runs to the batting side, in addition to calling a Dead ball. Fielders must remain still once the bowler begins their approach. This prevents fielders from using sudden movements to distract the batter at the point of delivery. Similarly, a batter's right to play the ball is restricted so that some part of their bat or person must remain within the pitch. If a batter ventures beyond the pitch to play a shot, the umpire will call Dead ball. Any delivery forcing the batter to leave the pitch is also called a No ball."
+    },
+    {
+        "id": "70",
+        "topic": "Helmet on the Field Penalty",
+        "content": "If the fielding team places a helmet on the field of play — typically on the ground behind the wicketkeeper — and the ball strikes it, the batting team is immediately awarded 5 penalty runs. These runs are in addition to any runs the batters may have already scored on that delivery. The fielding team is responsible for ensuring no helmets or personal equipment are lying on the field during play. This rule discourages fielders from carelessly leaving equipment in the playing area and protects the batting team from accidental deflections that could cost them runs."
+    },
+    {
+        "id": "71",
+        "topic": "Batting Average and Strike Rate",
+        "content": "Batting average is calculated as total runs scored divided by the number of times the batter has been dismissed. A high batting average indicates a consistent batter. Sir Donald Bradman's average of 99.94 is the gold standard. In Test cricket, an average above 50 is considered excellent. Strike rate measures how quickly a batter scores runs — it is calculated as runs scored per 100 balls faced. In T20 cricket, strike rates above 140 are considered aggressive. In ODIs, a strike rate above 90 is good. These statistics are used to rank players and assess their value in different formats."
+    },
+    {
+        "id": "72",
+        "topic": "Bowling Economy Rate and Bowling Average",
+        "content": "A bowler's economy rate is the average number of runs conceded per over. It is crucial in limited overs cricket. An economy rate below 7 in T20Is is considered excellent. In ODIs below 5 is very good. Bowling average is the number of runs conceded per wicket taken. A lower bowling average means the bowler takes wickets cheaply. In Tests, a bowling average below 25 is exceptional. Bowling strike rate measures how many balls a bowler takes to take a wicket. These three statistics together give a comprehensive picture of a bowler's effectiveness across formats."
+    },
+    {
+        "id": "73",
+        "topic": "Net Run Rate in Tournaments",
+        "content": "Net Run Rate (NRR) is used to separate teams that are level on points in a tournament group stage. It is calculated by subtracting the average runs conceded per over from the average runs scored per over across all matches. For example, if a team scores at 7.5 runs per over and concedes at 6.0 runs per over, their NRR is +1.5. A higher NRR is better. If a team wins by a large margin they improve their NRR significantly. This encourages teams to not just win but to win convincingly. NRR can be the difference between qualifying and being eliminated from a World Cup group stage."
+    },
+    {
+        "id": "74",
+        "topic": "Retired Hurt and Retired Out",
+        "content": "A batter can leave the field mid-innings in two ways. Retired hurt is when the batter leaves due to injury or illness — they can return later to resume their innings once they recover. Retired out is when the batter leaves for any other reason with the fielding side's agreement — they cannot return to bat. Retired hurt does not count as a dismissal. Retired out does count as a dismissal and is treated as a completed innings for statistical purposes. If the innings ends before the retired hurt batter can return, they are listed as 'retired hurt' in the scorebook and their innings is considered unfinished."
+    },
+    {
+        "id": "75",
+        "topic": "Cricket World Cup History",
+        "content": "The ICC Cricket World Cup is the premier ODI tournament held every 4 years. The first World Cup was held in England in 1975 and won by West Indies. Australia are the most successful team with 6 World Cup titles. India won in 1983 under Kapil Dev and in 2011 under MS Dhoni. West Indies won the inaugural two editions. The T20 World Cup has been held since 2007 and India won the inaugural edition under MS Dhoni. England won the 2019 ODI World Cup in a dramatic Super Over finish against New Zealand. India won the 2024 T20 World Cup under Rohit Sharma, ending an 11-year ICC title drought."
+    }
+
+]
