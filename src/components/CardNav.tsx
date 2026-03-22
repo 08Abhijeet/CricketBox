@@ -2,6 +2,7 @@
 import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import { GoArrowUpRight } from "react-icons/go";
+import { Radius } from "lucide-react";
 
 type CardNavLink = { label: string; href: string; ariaLabel: string };
 export type CardNavItem = {

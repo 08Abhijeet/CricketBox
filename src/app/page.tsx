@@ -35,9 +35,9 @@ function LandingPageContent() {
       bgColor: "#1a0a00",
       textColor: "#f97316",
       links: [
-        { label: "Rules Simplified",  href: "#features", ariaLabel: "Rules" },
-        { label: "Tactics Decoded",   href: "#features", ariaLabel: "Tactics" },
-        { label: "Answers",   href: "#features", ariaLabel: "Answers" },
+        { label: "Rules Simplified", href: "#features", ariaLabel: "Rules" },
+        { label: "Tactics Decoded", href: "#features", ariaLabel: "Tactics" },
+        { label: "Answers", href: "#features", ariaLabel: "Answers" },
       ],
     },
     {
@@ -45,9 +45,9 @@ function LandingPageContent() {
       bgColor: "#120a00",
       textColor: "#fb923c",
       links: [
-        { label: "Just Ask",      href: "#how-it-works", ariaLabel: "Ask" },
-        { label: "We Search",     href: "#how-it-works", ariaLabel: "Search" },
-        { label: "You Know",      href: "#how-it-works", ariaLabel: "Know" },
+        { label: "Just Ask", href: "#how-it-works", ariaLabel: "Ask" },
+        { label: "We Search", href: "#how-it-works", ariaLabel: "Search" },
+        { label: "You Know", href: "#how-it-works", ariaLabel: "Know" },
       ],
     },
     {
@@ -55,9 +55,9 @@ function LandingPageContent() {
       bgColor: "#0f0800",
       textColor: "#fdba74",
       links: [
-        { label: "LBW Rule",      href: "#topics", ariaLabel: "LBW" },
-        { label: "DLS Method",    href: "#topics", ariaLabel: "DLS" },
-        { label: "Formats",       href: "#topics", ariaLabel: "Formats" },
+        { label: "LBW Rule", href: "#topics", ariaLabel: "LBW" },
+        { label: "DLS Method", href: "#topics", ariaLabel: "DLS" },
+        { label: "Formats", href: "#topics", ariaLabel: "Formats" },
       ],
     },
   ];
@@ -95,7 +95,7 @@ function LandingPageContent() {
       <Topics />
       <hr className="section-divider" />
       <CTA />
-      
+
       {/* ── Footer ───────────────────────────────────────── */}
       <Footer />
     </>

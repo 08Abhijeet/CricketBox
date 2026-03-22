@@ -16,16 +16,10 @@ export async function POST(req: NextRequest) {
     }
 
     // ── Greeting detection — respond before hitting the RAG pipeline ──────────
-    const greetingPattern = /^(hey|hi|hello|howdy|sup|what'?s up|greetings|yo|hiya|namaste|good (morning|afternoon|evening))[!?.,:]*$/i;
+    const greetingPattern = /^(hey|hi+|hello|howdy|sup|what'?s up|greetings|yo|hiya|namaste|good (morning|afternoon|evening))[!?.,:]*$/i;
     if (greetingPattern.test(question.trim())) {
-      const greetings = [
-        "🏏 Hey there! I'm CricketIQ — your personal cricket expert. I know everything about cricket rules, tactics, formats, dismissals, and more.\n\nTry asking me something like:\n• \"What is the LBW rule?\"\n• \"How does the DLS method work?\"\n• \"What is Mankading?\"\n• \"Explain the Super Over rule\"\n\nWhat cricket question do you have for me?",
-        "🏏 Hello! Welcome to CricketIQ — the cricket rulebook, made conversational.\n\nI'm here to answer all your cricket questions — from basic rules to complex tactics. Whether you're a die-hard fan or just starting out, just ask away!\n\nWhat would you like to know?",
-        "🏏 Hi! I'm CricketIQ, and cricket is the only thing I talk about! 😄\n\nI've got answers on 40+ cricket topics — LBW, DLS, DRS, spin bowling, fielding positions, dismissals, power plays, and much more.\n\nGo ahead — ask me anything about cricket!",
-      ];
-      const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
       return NextResponse.json({
-        answer: randomGreeting,
+        answer: "I am the cricket chatbot. How can I help you?",
         sources: [],
         relevanceScores: [],
         chunksUsed: 0,

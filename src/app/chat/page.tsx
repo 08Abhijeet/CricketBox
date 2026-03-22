@@ -43,8 +43,9 @@ function ChatInner() {
   const [pipeSteps,     setPipeSteps]     = useState<PipeStep[]>(PIPE_STEPS);
   const [showPipe,      setShowPipe]      = useState(false);
   const [totalQueries,  setTotalQueries]  = useState(0);
-  const bottomRef   = useRef<HTMLDivElement>(null);
-  const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const bottomRef      = useRef<HTMLDivElement>(null);
+  const textareaRef    = useRef<HTMLTextAreaElement>(null);
+  const hasAutoSentRef = useRef(false);
 
   // Scroll to bottom on new messages
   useEffect(() => {
@@ -63,7 +64,10 @@ function ChatInner() {
   // If ?q= param exists, auto-send that question
   useEffect(() => {
     const q = searchParams.get("q");
-    if (q) handleSend(q);
+    if (q && !hasAutoSentRef.current) {
+      hasAutoSentRef.current = true;
+      handleSend(q);
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
